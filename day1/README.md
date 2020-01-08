@@ -1,7 +1,7 @@
 # day1
 
 A new Flutter application.
-day1.png
+![day1](day1.png)
 
 ## Getting Started
 
