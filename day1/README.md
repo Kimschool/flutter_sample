@@ -1,6 +1,7 @@
 # day1
 
 A new Flutter application.
+day1.png
 
 ## Getting Started
 
